@@ -4,6 +4,6 @@
 
 void conversao();
 void equacaoAlgebrica();
-void sistemaLinear();
+int sistemaLinear();
 
 #endif

@@ -6,7 +6,7 @@ int main() {
     char option;
 
     do {
-        printf("\n\n");
+        printf("\n\n\n");
         printf("*****ESCOLHA UMA OPÇÃO******\n");
         printf("     C - Conversão\n");
         printf("     S - Sistema Linear\n");
